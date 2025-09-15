@@ -26,3 +26,22 @@ git push -u origin beefaroni
 ng new angular-fulmination
 ng serve --open
 ```
+
+## Notes
+
+✔ Which stylesheet format would you like to use? Sass (SCSS)     [ https://sass-lang.com/documentation/syntax#scss                ]
+✔ Do you want to enable Server-Side Rendering (SSR) and Static Site Generation (SSG/Prerendering)? Yes
+✔ Do you want to create a 'zoneless' application without zone.js (Developer Preview)? No
+
+One is using a guide for Angular 19 at the moment.
+
+Initial work:
+* Project configuration
+* Directory structure
+* Standalone components
+* Data bindings
+* Directives
+ - Structural
+ - Attribute
+* Bootstrap installation
+
